@@ -33,7 +33,3 @@ npm run dev
 **4. Open in Browser:**
 
 Visit http://localhost:5173 (or whatever port your terminal shows)
-
-## License
-
-This project is open source and free to use.
