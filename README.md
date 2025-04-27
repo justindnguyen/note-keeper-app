@@ -19,22 +19,22 @@ A simple React note-taking application built with Vite.
 
 **1. Clone the repository:**
 
-    ```bash
-    git clone https://github.com/justindnguyen/note-keeper-app.git  
-    cd note-keeper-app
-    ```
+```bash
+git clone https://github.com/justindnguyen/note-keeper-app.git  
+cd note-keeper-app
+```
 
 **2. Install dependencies:**
 
-    ```bash
-    npm install
-    ```
+```bash
+npm install
+```
 
 **3. Start the development server:**
 
-    ```bash
-    npm run dev
-    ```
+```bash
+npm run dev
+```
 
 **4. Open in Browser:**
 
